@@ -1,1 +1,1 @@
-
+Soft Computing Lab Practical
